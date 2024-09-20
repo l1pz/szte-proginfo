@@ -1,0 +1,6 @@
+- D. K. Fagyejev, I. S. Szominszkij: Felsőbb algebrai feladatok, Műszaki Könyvkiadó, 1973, Typotex, 2000.  
+- Kalmárné Németh Márta, Katonáné Horváth Eszter, Kámán Tamás: Diszkrét matematikai feladatok, Polygon, 2003.  
+- Szabó László: Bevezetés a lineáris algebrába, Polygon, 2003.
+	- [[[Polygon Jegyzettár] Szabó László - Bevezetés a lineáris algebrába (2006, Szegedi Tudományegyetem Bolyai Intézet) - libgen.li.pdf]]
+- Szendrei Ágnes: Diszkrét matematika, Polygon, 1994, 1996, 1998, 2000, 2002
+	- [[Szendrei Ágnes - Diszkrét _matematika-Polygon (2017).pdf]]

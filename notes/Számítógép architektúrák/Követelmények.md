@@ -1,0 +1,22 @@
+- a vizsgának nincs előfeltétele
+- 3 részből áll a vizsga (utolsó opcionális)
+	- félév közben 5 CooSpace teszt - 20 pont
+		- 10 perc
+		- maximum 2 próbálkozás
+		- utolsó kitöltés számít
+		- egy hétig lehet kitölteni
+	- vizsgaidőszakban 8 kérdéses feladatlap - 40 pont
+		- kérdéslistából vannak a kérdések
+		- fél oldalas válaszokat kell adni
+		- 50 perc
+	- vizsgaidőszakban szóbeli vizsga - 40 pont
+		- javítani és rontani is tud a jegyen
+- jegyek
+	- 30-40) pont: elégtelen (1)
+	- 40-60 pont: elégséges (2)
+	- 60-70 pont: közepes (3)
+	- 70-85 pont: jó (4)
+	- 85-100 pont: jeles (5)
+- oktatók
+	- Dr. Nagy Antal Sándor ([nagya@inf.u-szeged.hu](mailto:nagya@inf.u-szeged.hu))
+	- Dr. Tanács Attila (tanacs@inf.u-szeged.hu](mailto:tanacs@inf.u-szeged.hu)|)

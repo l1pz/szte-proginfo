@@ -1,0 +1,12 @@
+- gyakorlati és elméleti is vizsga is lesz
+	- gyakorlati vizsga példa - [[Mintadolgozat-optalg-gyak.pdf]]
+	- elméleti vizsga példa - [[Mintadolgozat-optalg-elm.pdf]]
+- csak egy számológép használható
+- külön jegy van elméleten és gyakorlaton
+	- 00 - 24 pont: elégtelen (1)
+    - 25 - 30 pont: elégséges (2)
+    - 31 - 36 pont: közepes (3)
+    - 37 - 42 pont: jó (4)
+    - 43 - 50 pont: jeles (5)
+- oktató
+	- Dr. Szabó Péter Gábor (pszabo@inf.u-szeged.hu)

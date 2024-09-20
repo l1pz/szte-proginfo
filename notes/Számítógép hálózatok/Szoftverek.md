@@ -1,0 +1,4 @@
+- Wireshark 4.2.5
+	- https://drive.google.com/file/d/16SQowP1PLm45DOB0tGOUeRnVwyKfkUkL/view?usp=drive_link
+- Cisco Packet Tracer 8.2.2: 
+	- https://drive.google.com/file/d/1LqhU8vZHUUcbQhbX57W6VX3uwt6ptcvF/view?usp=sharing

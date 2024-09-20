@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "3c0950cee0f8c733",
+    "type": "split",
+    "children": [
+      {
+        "id": "e78fe7a99fdde8e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d7b324d31570d5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Optimalizálási algoritmusok/Követelmények.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "29d266e30aa9734d",
+    "type": "split",
+    "children": [
+      {
+        "id": "4cf71062b15496cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7ec2064df058d605",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b3ddce6a58dc83b5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b474c818b5aa1fef",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3179e8723f1c9b17",
+    "type": "split",
+    "children": [
+      {
+        "id": "e51d21ed94cf39e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fbd113ab62544610",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Optimalizálási algoritmusok/Követelmények.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b19e85efb31a5452",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Optimalizálási algoritmusok/Követelmények.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3db4b8769d81b0da",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2fa74550fb6fa536",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Optimalizálási algoritmusok/Követelmények.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4d7b324d31570d5d",
+  "lastOpenFiles": [
+    "Optimalizálási algoritmusok/Ajánlott irodalom.md",
+    "Kalkulus 1/Ajánlott irodalom.md",
+    "Kalkulus 1/Követelmények.md",
+    "Irodalom/Kalkulus informatikusoknak I.pdf",
+    "Kalkulus 1/CooSpace.md",
+    "Programozás alapjai/CooSpace.md",
+    "Webfejlesztés alapjai/CooSpace.md",
+    "Programozás alapjai",
+    "Személyes és szociális készségek/CooSpace.md",
+    "Webfejlesztés alapjai",
+    "Személyes és szociális készségek/Követelmények.md",
+    "Számítógép architektúrák/Követelmények.md",
+    "Személyes és szociális készségek",
+    "Számítógép architektúrák/CooSpace.md",
+    "Optimalizálási algoritmusok/CooSpace.md",
+    "Számítógép hálózatok/Követelmények.md",
+    "Számítógép architektúrák",
+    "Optimalizálási algoritmusok/Követelmények.md",
+    "Számítógép hálózatok/Ajánlott irodalom.md",
+    "Irodalom/tcpipalapokv11.pdf",
+    "Irodalom/tcpip2.pdf",
+    "Irodalom/cli_commands.pdf",
+    "Irodalom/cli_commands.pdf.crdownload",
+    "Diszkrét matematika 1/Követelmények.md",
+    "Számítógép hálózatok/CooSpace.md",
+    "Számítógép hálózatok/Untitled",
+    "Számítógép hálózatok/Szoftverek.md",
+    "Diszkrét matematika 1/CooSpace.md",
+    "Diszkrét matematika 1/Ajánlott irodalom.md",
+    "Irodalom/Kalkulus informatikusoknak I.md",
+    "2024-09-19.md",
+    "create a link.md",
+    "Welcome.md"
+  ]
+}

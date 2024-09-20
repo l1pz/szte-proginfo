@@ -1,0 +1,15 @@
+- vizsga lesz amire CooSpace-ben kell jelentkezni
+- fényképes igazolvánnyal kell megjelenni
+- a vizsga 90 perc amint 100 pontot lehet elérni
+	- gyakorlati rész - 70 pont
+	- elméleti rész -  30 pont
+- kiosztott képletgyűjtemény használható
+- osztályzatok
+	- elégtelen - 0-40
+	- elégséges - 41-55
+	- közepes - 56-70
+	- jó - 71-85
+	- jeles - 86-100
+- maximum 3 alkalommal lehet vizsgázni
+- oktató
+	- Dr. Nagy Béla ([nbela@sol.cc.u-szeged.hu](mailto:nbela@sol.cc.u-szeged.hu))

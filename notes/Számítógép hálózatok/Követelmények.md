@@ -1,0 +1,9 @@
+- teszt alapú vizsga lesz
+	- Jeles (5): 87 – 100   
+	- Jó (4) 74 – 86  
+	- Közepes (3) 62-73  
+	- Elégséges (2) 50-61
+	- Elégtelen (1) 0-49
+- oktatók
+	- elmélet - Dr. Bilicki Vilmos (bilickiv@inf.u-szeged.hu)
+	- gyakorlat - Jánki Zoltán Richárd (jankiz@inf.u-szeged.hu)

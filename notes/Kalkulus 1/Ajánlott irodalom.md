@@ -1,0 +1,9 @@
+- Dr. Szabó Tamás Zoltán - Youtube
+	- https://www.youtube.com/watch?v=zeswAhRFwyw&list=PLm_pNdtN9BaryRWDVBWaKVR_r25fctzJ6
+- Leindler László, Analízis, Polygon, 2001.  
+- Fülöp Vanda, Kalkulus I példatár, Polygon, 2017.
+	- [[Fülöp Vanda, KURUSA ÁRPÁD - KALKULUS 1. PÉLDATÁR - SZTE BOLYAI INTÉZET POLYGON jegyzetsorozat-Szegedi Egyetem Kiadó (2018).pdf]]
+- Szabó Tamás, Kalkulus I-II., Polygon, 2002, 2003.
+	- [[Szabó Tamás - Kalkulus I. Jegyzettár-Polygon Kiadó (2004).pdf]]
+- Győri István, Pituk Mihály, Kalkulus informatikusoknak I
+	- [[Kalkulus informatikusoknak I.pdf]]

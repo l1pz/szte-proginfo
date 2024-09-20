@@ -1,0 +1,12 @@
+- az előadásokon a részvétel nem kötelező
+- 11-14 hét között heti 1 CooSpace tesztet kell kitölteni
+	- bárhol, bármikor, bármennyiszer kitölthető a hét folyamán
+- a tesztek átlaga adja az osztályzatot
+- jegyek
+	- (0, 60) % : elégtelen (1),
+	- (60, 70) %: elégséges (2),
+	- (70, 80) %: közepes (3),
+	- (80, 90) %: jó (4),
+	- (90, 100 %: jeles (5)
+- oktató
+	- Dr. Holló Csaba ([chollo@inf.u-szeged.hu](mailto:chollo@inf.u-szeged.hu))
